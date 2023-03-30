@@ -1,0 +1,1631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BullsCowsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-30T14:06:13" hostname="DESKTOP-CJRDGHK" time="1.088">
+  <properties/>
+  <testcase name="start" classname="BullsCowsTest" time="1.088"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+Input the length of the secret code:
+> 1
+Input the number of possible symbols in the code:
+> 10
+The secret is prepared: *((0-9,a-9).
+Okay, let's start a game!
+> 0
+Turn 1:
+None. The secret code is 3
+> 1
+Turn 2:
+None. The secret code is 3
+> 2
+Turn 3:
+None. The secret code is 3
+> 3
+Turn 4:
+1 bulls and 0 cows. The secret code is 3
+Congrats! The secret code is 3.
+?[1;31m
+Start test 2?[0m
+Input the length of the secret code:
+> 4
+Input the number of possible symbols in the code:
+> 10
+The secret is prepared: ****((0-9,a-9).
+Okay, let's start a game!
+> 0000
+Turn 1:
+None. The secret code is 7286
+> 1111
+Turn 2:
+None. The secret code is 7286
+> 2222
+Turn 3:
+1 bulls and 3 cows. The secret code is 7286
+> 3333
+Turn 4:
+None. The secret code is 7286
+> 4444
+Turn 5:
+None. The secret code is 7286
+> 5555
+Turn 6:
+None. The secret code is 7286
+> 6666
+Turn 7:
+1 bulls and 3 cows. The secret code is 7286
+> 7777
+Turn 8:
+1 bulls and 3 cows. The secret code is 7286
+> 8888
+Turn 9:
+1 bulls and 3 cows. The secret code is 7286
+> 2678
+Turn 10:
+0 bulls and 4 cows. The secret code is 7286
+> 6278
+Turn 11:
+1 bulls and 3 cows. The secret code is 7286
+> 7268
+Turn 12:
+2 bulls and 2 cows. The secret code is 7286
+> 2768
+Turn 13:
+0 bulls and 4 cows. The secret code is 7286
+> 6728
+Turn 14:
+0 bulls and 4 cows. The secret code is 7286
+> 7628
+Turn 15:
+1 bulls and 3 cows. The secret code is 7286
+> 8627
+Turn 16:
+0 bulls and 4 cows. The secret code is 7286
+> 6827
+Turn 17:
+0 bulls and 4 cows. The secret code is 7286
+> 2867
+Turn 18:
+0 bulls and 4 cows. The secret code is 7286
+> 8267
+Turn 19:
+1 bulls and 3 cows. The secret code is 7286
+> 6287
+Turn 20:
+2 bulls and 2 cows. The secret code is 7286
+> 2687
+Turn 21:
+1 bulls and 3 cows. The secret code is 7286
+> 2786
+Turn 22:
+2 bulls and 2 cows. The secret code is 7286
+> 7286
+Turn 23:
+4 bulls and 0 cows. The secret code is 7286
+Congrats! The secret code is 7286.
+?[1;31m
+Start test 3?[0m
+Input the length of the secret code:
+> 6
+Input the number of possible symbols in the code:
+> 10
+The secret is prepared: ******((0-9,a-9).
+Okay, let's start a game!
+> 000000
+Turn 1:
+1 bulls and 5 cows. The secret code is 259068
+> 111111
+Turn 2:
+None. The secret code is 259068
+> 222222
+Turn 3:
+1 bulls and 5 cows. The secret code is 259068
+> 333333
+Turn 4:
+None. The secret code is 259068
+> 444444
+Turn 5:
+None. The secret code is 259068
+> 555555
+Turn 6:
+1 bulls and 5 cows. The secret code is 259068
+> 666666
+Turn 7:
+1 bulls and 5 cows. The secret code is 259068
+> 777777
+Turn 8:
+None. The secret code is 259068
+> 888888
+Turn 9:
+1 bulls and 5 cows. The secret code is 259068
+> 999999
+Turn 10:
+1 bulls and 5 cows. The secret code is 259068
+> 025689
+Turn 11:
+0 bulls and 6 cows. The secret code is 259068
+> 205689
+Turn 12:
+1 bulls and 5 cows. The secret code is 259068
+> 502689
+Turn 13:
+0 bulls and 6 cows. The secret code is 259068
+> 052689
+Turn 14:
+1 bulls and 5 cows. The secret code is 259068
+> 250689
+Turn 15:
+2 bulls and 4 cows. The secret code is 259068
+> 520689
+Turn 16:
+0 bulls and 6 cows. The secret code is 259068
+> 620589
+Turn 17:
+0 bulls and 6 cows. The secret code is 259068
+> 260589
+Turn 18:
+1 bulls and 5 cows. The secret code is 259068
+> 062589
+Turn 19:
+0 bulls and 6 cows. The secret code is 259068
+> 602589
+Turn 20:
+0 bulls and 6 cows. The secret code is 259068
+> 206589
+Turn 21:
+1 bulls and 5 cows. The secret code is 259068
+> 026589
+Turn 22:
+0 bulls and 6 cows. The secret code is 259068
+> 056289
+Turn 23:
+1 bulls and 5 cows. The secret code is 259068
+> 506289
+Turn 24:
+0 bulls and 6 cows. The secret code is 259068
+> 605289
+Turn 25:
+0 bulls and 6 cows. The secret code is 259068
+> 065289
+Turn 26:
+0 bulls and 6 cows. The secret code is 259068
+> 560289
+Turn 27:
+0 bulls and 6 cows. The secret code is 259068
+> 650289
+Turn 28:
+1 bulls and 5 cows. The secret code is 259068
+> 652089
+Turn 29:
+2 bulls and 4 cows. The secret code is 259068
+> 562089
+Turn 30:
+1 bulls and 5 cows. The secret code is 259068
+> 265089
+Turn 31:
+2 bulls and 4 cows. The secret code is 259068
+> 625089
+Turn 32:
+1 bulls and 5 cows. The secret code is 259068
+> 526089
+Turn 33:
+1 bulls and 5 cows. The secret code is 259068
+> 256089
+Turn 34:
+3 bulls and 3 cows. The secret code is 259068
+> 856029
+Turn 35:
+2 bulls and 4 cows. The secret code is 259068
+> 586029
+Turn 36:
+1 bulls and 5 cows. The secret code is 259068
+> 685029
+Turn 37:
+1 bulls and 5 cows. The secret code is 259068
+> 865029
+Turn 38:
+1 bulls and 5 cows. The secret code is 259068
+> 568029
+Turn 39:
+1 bulls and 5 cows. The secret code is 259068
+> 658029
+Turn 40:
+2 bulls and 4 cows. The secret code is 259068
+> 058629
+Turn 41:
+1 bulls and 5 cows. The secret code is 259068
+> 508629
+Turn 42:
+0 bulls and 6 cows. The secret code is 259068
+> 805629
+Turn 43:
+0 bulls and 6 cows. The secret code is 259068
+> 085629
+Turn 44:
+0 bulls and 6 cows. The secret code is 259068
+> 580629
+Turn 45:
+0 bulls and 6 cows. The secret code is 259068
+> 850629
+Turn 46:
+1 bulls and 5 cows. The secret code is 259068
+> 860529
+Turn 47:
+0 bulls and 6 cows. The secret code is 259068
+> 680529
+Turn 48:
+0 bulls and 6 cows. The secret code is 259068
+> 086529
+Turn 49:
+0 bulls and 6 cows. The secret code is 259068
+> 806529
+Turn 50:
+0 bulls and 6 cows. The secret code is 259068
+> 608529
+Turn 51:
+0 bulls and 6 cows. The secret code is 259068
+> 068529
+Turn 52:
+0 bulls and 6 cows. The secret code is 259068
+> 065829
+Turn 53:
+0 bulls and 6 cows. The secret code is 259068
+> 605829
+Turn 54:
+0 bulls and 6 cows. The secret code is 259068
+> 506829
+Turn 55:
+0 bulls and 6 cows. The secret code is 259068
+> 056829
+Turn 56:
+1 bulls and 5 cows. The secret code is 259068
+> 650829
+Turn 57:
+1 bulls and 5 cows. The secret code is 259068
+> 560829
+Turn 58:
+0 bulls and 6 cows. The secret code is 259068
+> 260859
+Turn 59:
+1 bulls and 5 cows. The secret code is 259068
+> 620859
+Turn 60:
+0 bulls and 6 cows. The secret code is 259068
+> 026859
+Turn 61:
+0 bulls and 6 cows. The secret code is 259068
+> 206859
+Turn 62:
+1 bulls and 5 cows. The secret code is 259068
+> 602859
+Turn 63:
+0 bulls and 6 cows. The secret code is 259068
+> 062859
+Turn 64:
+0 bulls and 6 cows. The secret code is 259068
+> 862059
+Turn 65:
+1 bulls and 5 cows. The secret code is 259068
+> 682059
+Turn 66:
+1 bulls and 5 cows. The secret code is 259068
+> 286059
+Turn 67:
+2 bulls and 4 cows. The secret code is 259068
+> 826059
+Turn 68:
+1 bulls and 5 cows. The secret code is 259068
+> 628059
+Turn 69:
+1 bulls and 5 cows. The secret code is 259068
+> 268059
+Turn 70:
+2 bulls and 4 cows. The secret code is 259068
+> 208659
+Turn 71:
+1 bulls and 5 cows. The secret code is 259068
+> 028659
+Turn 72:
+0 bulls and 6 cows. The secret code is 259068
+> 820659
+Turn 73:
+0 bulls and 6 cows. The secret code is 259068
+> 280659
+Turn 74:
+1 bulls and 5 cows. The secret code is 259068
+> 082659
+Turn 75:
+0 bulls and 6 cows. The secret code is 259068
+> 802659
+Turn 76:
+0 bulls and 6 cows. The secret code is 259068
+> 806259
+Turn 77:
+0 bulls and 6 cows. The secret code is 259068
+> 086259
+Turn 78:
+0 bulls and 6 cows. The secret code is 259068
+> 680259
+Turn 79:
+0 bulls and 6 cows. The secret code is 259068
+> 860259
+Turn 80:
+0 bulls and 6 cows. The secret code is 259068
+> 068259
+Turn 81:
+0 bulls and 6 cows. The secret code is 259068
+> 608259
+Turn 82:
+0 bulls and 6 cows. The secret code is 259068
+> 508269
+Turn 83:
+1 bulls and 5 cows. The secret code is 259068
+> 058269
+Turn 84:
+2 bulls and 4 cows. The secret code is 259068
+> 850269
+Turn 85:
+2 bulls and 4 cows. The secret code is 259068
+> 580269
+Turn 86:
+1 bulls and 5 cows. The secret code is 259068
+> 085269
+Turn 87:
+1 bulls and 5 cows. The secret code is 259068
+> 805269
+Turn 88:
+1 bulls and 5 cows. The secret code is 259068
+> 205869
+Turn 89:
+2 bulls and 4 cows. The secret code is 259068
+> 025869
+Turn 90:
+1 bulls and 5 cows. The secret code is 259068
+> 520869
+Turn 91:
+1 bulls and 5 cows. The secret code is 259068
+> 250869
+Turn 92:
+3 bulls and 3 cows. The secret code is 259068
+> 052869
+Turn 93:
+2 bulls and 4 cows. The secret code is 259068
+> 502869
+Turn 94:
+1 bulls and 5 cows. The secret code is 259068
+> 582069
+Turn 95:
+2 bulls and 4 cows. The secret code is 259068
+> 852069
+Turn 96:
+3 bulls and 3 cows. The secret code is 259068
+> 258069
+Turn 97:
+4 bulls and 2 cows. The secret code is 259068
+> 528069
+Turn 98:
+2 bulls and 4 cows. The secret code is 259068
+> 825069
+Turn 99:
+2 bulls and 4 cows. The secret code is 259068
+> 285069
+Turn 100:
+3 bulls and 3 cows. The secret code is 259068
+> 280569
+Turn 101:
+2 bulls and 4 cows. The secret code is 259068
+> 820569
+Turn 102:
+1 bulls and 5 cows. The secret code is 259068
+> 028569
+Turn 103:
+1 bulls and 5 cows. The secret code is 259068
+> 208569
+Turn 104:
+2 bulls and 4 cows. The secret code is 259068
+> 802569
+Turn 105:
+1 bulls and 5 cows. The secret code is 259068
+> 082569
+Turn 106:
+1 bulls and 5 cows. The secret code is 259068
+> 682509
+Turn 107:
+0 bulls and 6 cows. The secret code is 259068
+> 862509
+Turn 108:
+0 bulls and 6 cows. The secret code is 259068
+> 268509
+Turn 109:
+1 bulls and 5 cows. The secret code is 259068
+> 628509
+Turn 110:
+0 bulls and 6 cows. The secret code is 259068
+> 826509
+Turn 111:
+0 bulls and 6 cows. The secret code is 259068
+> 286509
+Turn 112:
+1 bulls and 5 cows. The secret code is 259068
+> 586209
+Turn 113:
+0 bulls and 6 cows. The secret code is 259068
+> 856209
+Turn 114:
+1 bulls and 5 cows. The secret code is 259068
+> 658209
+Turn 115:
+1 bulls and 5 cows. The secret code is 259068
+> 568209
+Turn 116:
+0 bulls and 6 cows. The secret code is 259068
+> 865209
+Turn 117:
+0 bulls and 6 cows. The secret code is 259068
+> 685209
+Turn 118:
+0 bulls and 6 cows. The secret code is 259068
+> 625809
+Turn 119:
+0 bulls and 6 cows. The secret code is 259068
+> 265809
+Turn 120:
+1 bulls and 5 cows. The secret code is 259068
+> 562809
+Turn 121:
+0 bulls and 6 cows. The secret code is 259068
+> 652809
+Turn 122:
+1 bulls and 5 cows. The secret code is 259068
+> 256809
+Turn 123:
+2 bulls and 4 cows. The secret code is 259068
+> 526809
+Turn 124:
+0 bulls and 6 cows. The secret code is 259068
+> 528609
+Turn 125:
+0 bulls and 6 cows. The secret code is 259068
+> 258609
+Turn 126:
+2 bulls and 4 cows. The secret code is 259068
+> 852609
+Turn 127:
+1 bulls and 5 cows. The secret code is 259068
+> 582609
+Turn 128:
+0 bulls and 6 cows. The secret code is 259068
+> 285609
+Turn 129:
+1 bulls and 5 cows. The secret code is 259068
+> 825609
+Turn 130:
+0 bulls and 6 cows. The secret code is 259068
+> 925608
+Turn 131:
+1 bulls and 5 cows. The secret code is 259068
+> 295608
+Turn 132:
+2 bulls and 4 cows. The secret code is 259068
+> 592608
+Turn 133:
+1 bulls and 5 cows. The secret code is 259068
+> 952608
+Turn 134:
+2 bulls and 4 cows. The secret code is 259068
+> 259608
+Turn 135:
+4 bulls and 2 cows. The secret code is 259068
+> 529608
+Turn 136:
+2 bulls and 4 cows. The secret code is 259068
+> 629508
+Turn 137:
+2 bulls and 4 cows. The secret code is 259068
+> 269508
+Turn 138:
+3 bulls and 3 cows. The secret code is 259068
+> 962508
+Turn 139:
+1 bulls and 5 cows. The secret code is 259068
+> 692508
+Turn 140:
+1 bulls and 5 cows. The secret code is 259068
+> 296508
+Turn 141:
+2 bulls and 4 cows. The secret code is 259068
+> 926508
+Turn 142:
+1 bulls and 5 cows. The secret code is 259068
+> 956208
+Turn 143:
+2 bulls and 4 cows. The secret code is 259068
+> 596208
+Turn 144:
+1 bulls and 5 cows. The secret code is 259068
+> 695208
+Turn 145:
+1 bulls and 5 cows. The secret code is 259068
+> 965208
+Turn 146:
+1 bulls and 5 cows. The secret code is 259068
+> 569208
+Turn 147:
+2 bulls and 4 cows. The secret code is 259068
+> 659208
+Turn 148:
+3 bulls and 3 cows. The secret code is 259068
+> 652908
+Turn 149:
+2 bulls and 4 cows. The secret code is 259068
+> 562908
+Turn 150:
+1 bulls and 5 cows. The secret code is 259068
+> 265908
+Turn 151:
+2 bulls and 4 cows. The secret code is 259068
+> 625908
+Turn 152:
+1 bulls and 5 cows. The secret code is 259068
+> 526908
+Turn 153:
+1 bulls and 5 cows. The secret code is 259068
+> 256908
+Turn 154:
+3 bulls and 3 cows. The secret code is 259068
+> 056928
+Turn 155:
+2 bulls and 4 cows. The secret code is 259068
+> 506928
+Turn 156:
+1 bulls and 5 cows. The secret code is 259068
+> 605928
+Turn 157:
+1 bulls and 5 cows. The secret code is 259068
+> 065928
+Turn 158:
+1 bulls and 5 cows. The secret code is 259068
+> 560928
+Turn 159:
+1 bulls and 5 cows. The secret code is 259068
+> 650928
+Turn 160:
+2 bulls and 4 cows. The secret code is 259068
+> 950628
+Turn 161:
+2 bulls and 4 cows. The secret code is 259068
+> 590628
+Turn 162:
+1 bulls and 5 cows. The secret code is 259068
+> 095628
+Turn 163:
+1 bulls and 5 cows. The secret code is 259068
+> 905628
+Turn 164:
+1 bulls and 5 cows. The secret code is 259068
+> 509628
+Turn 165:
+2 bulls and 4 cows. The secret code is 259068
+> 059628
+Turn 166:
+3 bulls and 3 cows. The secret code is 259068
+> 069528
+Turn 167:
+2 bulls and 4 cows. The secret code is 259068
+> 609528
+Turn 168:
+2 bulls and 4 cows. The secret code is 259068
+> 906528
+Turn 169:
+1 bulls and 5 cows. The secret code is 259068
+> 096528
+Turn 170:
+1 bulls and 5 cows. The secret code is 259068
+> 690528
+Turn 171:
+1 bulls and 5 cows. The secret code is 259068
+> 960528
+Turn 172:
+1 bulls and 5 cows. The secret code is 259068
+> 965028
+Turn 173:
+2 bulls and 4 cows. The secret code is 259068
+> 695028
+Turn 174:
+2 bulls and 4 cows. The secret code is 259068
+> 596028
+Turn 175:
+2 bulls and 4 cows. The secret code is 259068
+> 956028
+Turn 176:
+3 bulls and 3 cows. The secret code is 259068
+> 659028
+Turn 177:
+4 bulls and 2 cows. The secret code is 259068
+> 569028
+Turn 178:
+3 bulls and 3 cows. The secret code is 259068
+> 269058
+Turn 179:
+4 bulls and 2 cows. The secret code is 259068
+> 629058
+Turn 180:
+3 bulls and 3 cows. The secret code is 259068
+> 926058
+Turn 181:
+2 bulls and 4 cows. The secret code is 259068
+> 296058
+Turn 182:
+3 bulls and 3 cows. The secret code is 259068
+> 692058
+Turn 183:
+2 bulls and 4 cows. The secret code is 259068
+> 962058
+Turn 184:
+2 bulls and 4 cows. The secret code is 259068
+> 062958
+Turn 185:
+1 bulls and 5 cows. The secret code is 259068
+> 602958
+Turn 186:
+1 bulls and 5 cows. The secret code is 259068
+> 206958
+Turn 187:
+2 bulls and 4 cows. The secret code is 259068
+> 026958
+Turn 188:
+1 bulls and 5 cows. The secret code is 259068
+> 620958
+Turn 189:
+1 bulls and 5 cows. The secret code is 259068
+> 260958
+Turn 190:
+2 bulls and 4 cows. The secret code is 259068
+> 290658
+Turn 191:
+2 bulls and 4 cows. The secret code is 259068
+> 920658
+Turn 192:
+1 bulls and 5 cows. The secret code is 259068
+> 029658
+Turn 193:
+2 bulls and 4 cows. The secret code is 259068
+> 209658
+Turn 194:
+3 bulls and 3 cows. The secret code is 259068
+> 902658
+Turn 195:
+1 bulls and 5 cows. The secret code is 259068
+> 092658
+Turn 196:
+1 bulls and 5 cows. The secret code is 259068
+> 096258
+Turn 197:
+1 bulls and 5 cows. The secret code is 259068
+> 906258
+Turn 198:
+1 bulls and 5 cows. The secret code is 259068
+> 609258
+Turn 199:
+2 bulls and 4 cows. The secret code is 259068
+> 069258
+Turn 200:
+2 bulls and 4 cows. The secret code is 259068
+> 960258
+Turn 201:
+1 bulls and 5 cows. The secret code is 259068
+> 690258
+Turn 202:
+1 bulls and 5 cows. The secret code is 259068
+> 590268
+Turn 203:
+2 bulls and 4 cows. The secret code is 259068
+> 950268
+Turn 204:
+3 bulls and 3 cows. The secret code is 259068
+> 059268
+Turn 205:
+4 bulls and 2 cows. The secret code is 259068
+> 509268
+Turn 206:
+3 bulls and 3 cows. The secret code is 259068
+> 905268
+Turn 207:
+2 bulls and 4 cows. The secret code is 259068
+> 095268
+Turn 208:
+2 bulls and 4 cows. The secret code is 259068
+> 295068
+Turn 209:
+4 bulls and 2 cows. The secret code is 259068
+> 925068
+Turn 210:
+3 bulls and 3 cows. The secret code is 259068
+> 529068
+Turn 211:
+4 bulls and 2 cows. The secret code is 259068
+> 259068
+Turn 212:
+6 bulls and 0 cows. The secret code is 259068
+Congrats! The secret code is 259068.
+?[1;31m
+Start test 4?[0m
+Input the length of the secret code:
+> 11
+Input the number of possible symbols in the code:
+> 10
+Error: it's not possible to generate a code with a length greater than the number of symbols.
+?[1;31m
+Start test 5?[0m
+Input the length of the secret code:
+> 4
+Input the number of possible symbols in the code:
+> 16
+The secret is prepared: ****((0-9,a-f).
+Okay, let's start a game!
+> 0000
+Turn 1:
+None. The secret code is 5d46
+> 1111
+Turn 2:
+None. The secret code is 5d46
+> 2222
+Turn 3:
+None. The secret code is 5d46
+> 3333
+Turn 4:
+None. The secret code is 5d46
+> 4444
+Turn 5:
+1 bulls and 3 cows. The secret code is 5d46
+> 5555
+Turn 6:
+1 bulls and 3 cows. The secret code is 5d46
+> 6666
+Turn 7:
+1 bulls and 3 cows. The secret code is 5d46
+> 7777
+Turn 8:
+None. The secret code is 5d46
+> 8888
+Turn 9:
+None. The secret code is 5d46
+> 9999
+Turn 10:
+None. The secret code is 5d46
+> aaaa
+Turn 11:
+None. The secret code is 5d46
+> bbbb
+Turn 12:
+None. The secret code is 5d46
+> cccc
+Turn 13:
+None. The secret code is 5d46
+> dddd
+Turn 14:
+1 bulls and 3 cows. The secret code is 5d46
+> 456d
+Turn 15:
+0 bulls and 4 cows. The secret code is 5d46
+> 546d
+Turn 16:
+1 bulls and 3 cows. The secret code is 5d46
+> 645d
+Turn 17:
+0 bulls and 4 cows. The secret code is 5d46
+> 465d
+Turn 18:
+0 bulls and 4 cows. The secret code is 5d46
+> 564d
+Turn 19:
+2 bulls and 2 cows. The secret code is 5d46
+> 654d
+Turn 20:
+1 bulls and 3 cows. The secret code is 5d46
+> d546
+Turn 21:
+2 bulls and 2 cows. The secret code is 5d46
+> 5d46
+Turn 22:
+4 bulls and 0 cows. The secret code is 5d46
+Congrats! The secret code is 5d46.
+?[1;31m
+Start test 6?[0m
+Input the length of the secret code:
+> 6
+Input the number of possible symbols in the code:
+> 36
+The secret is prepared: ******((0-9,a-z).
+Okay, let's start a game!
+> 000000
+Turn 1:
+None. The secret code is embizq
+> 111111
+Turn 2:
+None. The secret code is embizq
+> 222222
+Turn 3:
+None. The secret code is embizq
+> 333333
+Turn 4:
+None. The secret code is embizq
+> 444444
+Turn 5:
+None. The secret code is embizq
+> 555555
+Turn 6:
+None. The secret code is embizq
+> 666666
+Turn 7:
+None. The secret code is embizq
+> 777777
+Turn 8:
+None. The secret code is embizq
+> 888888
+Turn 9:
+None. The secret code is embizq
+> 999999
+Turn 10:
+None. The secret code is embizq
+> aaaaaa
+Turn 11:
+None. The secret code is embizq
+> bbbbbb
+Turn 12:
+1 bulls and 5 cows. The secret code is embizq
+> cccccc
+Turn 13:
+None. The secret code is embizq
+> dddddd
+Turn 14:
+None. The secret code is embizq
+> eeeeee
+Turn 15:
+1 bulls and 5 cows. The secret code is embizq
+> ffffff
+Turn 16:
+None. The secret code is embizq
+> gggggg
+Turn 17:
+None. The secret code is embizq
+> hhhhhh
+Turn 18:
+None. The secret code is embizq
+> iiiiii
+Turn 19:
+1 bulls and 5 cows. The secret code is embizq
+> jjjjjj
+Turn 20:
+None. The secret code is embizq
+> kkkkkk
+Turn 21:
+None. The secret code is embizq
+> llllll
+Turn 22:
+None. The secret code is embizq
+> mmmmmm
+Turn 23:
+1 bulls and 5 cows. The secret code is embizq
+> nnnnnn
+Turn 24:
+None. The secret code is embizq
+> oooooo
+Turn 25:
+None. The secret code is embizq
+> pppppp
+Turn 26:
+None. The secret code is embizq
+> qqqqqq
+Turn 27:
+1 bulls and 5 cows. The secret code is embizq
+> rrrrrr
+Turn 28:
+None. The secret code is embizq
+> ssssss
+Turn 29:
+None. The secret code is embizq
+> tttttt
+Turn 30:
+None. The secret code is embizq
+> uuuuuu
+Turn 31:
+None. The secret code is embizq
+> vvvvvv
+Turn 32:
+None. The secret code is embizq
+> wwwwww
+Turn 33:
+None. The secret code is embizq
+> xxxxxx
+Turn 34:
+None. The secret code is embizq
+> yyyyyy
+Turn 35:
+None. The secret code is embizq
+> zzzzzz
+Turn 36:
+1 bulls and 5 cows. The secret code is embizq
+> beimqz
+Turn 37:
+0 bulls and 6 cows. The secret code is embizq
+> ebimqz
+Turn 38:
+1 bulls and 5 cows. The secret code is embizq
+> ibemqz
+Turn 39:
+0 bulls and 6 cows. The secret code is embizq
+> biemqz
+Turn 40:
+0 bulls and 6 cows. The secret code is embizq
+> eibmqz
+Turn 41:
+2 bulls and 4 cows. The secret code is embizq
+> iebmqz
+Turn 42:
+1 bulls and 5 cows. The secret code is embizq
+> mebiqz
+Turn 43:
+2 bulls and 4 cows. The secret code is embizq
+> embiqz
+Turn 44:
+4 bulls and 2 cows. The secret code is embizq
+> bmeiqz
+Turn 45:
+2 bulls and 4 cows. The secret code is embizq
+> mbeiqz
+Turn 46:
+1 bulls and 5 cows. The secret code is embizq
+> ebmiqz
+Turn 47:
+2 bulls and 4 cows. The secret code is embizq
+> bemiqz
+Turn 48:
+1 bulls and 5 cows. The secret code is embizq
+> bimeqz
+Turn 49:
+0 bulls and 6 cows. The secret code is embizq
+> ibmeqz
+Turn 50:
+0 bulls and 6 cows. The secret code is embizq
+> mbieqz
+Turn 51:
+0 bulls and 6 cows. The secret code is embizq
+> bmieqz
+Turn 52:
+1 bulls and 5 cows. The secret code is embizq
+> imbeqz
+Turn 53:
+2 bulls and 4 cows. The secret code is embizq
+> mibeqz
+Turn 54:
+1 bulls and 5 cows. The secret code is embizq
+> miebqz
+Turn 55:
+0 bulls and 6 cows. The secret code is embizq
+> imebqz
+Turn 56:
+1 bulls and 5 cows. The secret code is embizq
+> emibqz
+Turn 57:
+2 bulls and 4 cows. The secret code is embizq
+> meibqz
+Turn 58:
+0 bulls and 6 cows. The secret code is embizq
+> iembqz
+Turn 59:
+0 bulls and 6 cows. The secret code is embizq
+> eimbqz
+Turn 60:
+1 bulls and 5 cows. The secret code is embizq
+> qimbez
+Turn 61:
+0 bulls and 6 cows. The secret code is embizq
+> iqmbez
+Turn 62:
+0 bulls and 6 cows. The secret code is embizq
+> mqibez
+Turn 63:
+0 bulls and 6 cows. The secret code is embizq
+> qmibez
+Turn 64:
+1 bulls and 5 cows. The secret code is embizq
+> imqbez
+Turn 65:
+1 bulls and 5 cows. The secret code is embizq
+> miqbez
+Turn 66:
+0 bulls and 6 cows. The secret code is embizq
+> biqmez
+Turn 67:
+0 bulls and 6 cows. The secret code is embizq
+> ibqmez
+Turn 68:
+0 bulls and 6 cows. The secret code is embizq
+> qbimez
+Turn 69:
+0 bulls and 6 cows. The secret code is embizq
+> bqimez
+Turn 70:
+0 bulls and 6 cows. The secret code is embizq
+> iqbmez
+Turn 71:
+1 bulls and 5 cows. The secret code is embizq
+> qibmez
+Turn 72:
+1 bulls and 5 cows. The secret code is embizq
+> qmbiez
+Turn 73:
+3 bulls and 3 cows. The secret code is embizq
+> mqbiez
+Turn 74:
+2 bulls and 4 cows. The secret code is embizq
+> bqmiez
+Turn 75:
+1 bulls and 5 cows. The secret code is embizq
+> qbmiez
+Turn 76:
+1 bulls and 5 cows. The secret code is embizq
+> mbqiez
+Turn 77:
+1 bulls and 5 cows. The secret code is embizq
+> bmqiez
+Turn 78:
+2 bulls and 4 cows. The secret code is embizq
+> bmiqez
+Turn 79:
+1 bulls and 5 cows. The secret code is embizq
+> mbiqez
+Turn 80:
+0 bulls and 6 cows. The secret code is embizq
+> ibmqez
+Turn 81:
+0 bulls and 6 cows. The secret code is embizq
+> bimqez
+Turn 82:
+0 bulls and 6 cows. The secret code is embizq
+> mibqez
+Turn 83:
+1 bulls and 5 cows. The secret code is embizq
+> imbqez
+Turn 84:
+2 bulls and 4 cows. The secret code is embizq
+> embqiz
+Turn 85:
+3 bulls and 3 cows. The secret code is embizq
+> mebqiz
+Turn 86:
+1 bulls and 5 cows. The secret code is embizq
+> bemqiz
+Turn 87:
+0 bulls and 6 cows. The secret code is embizq
+> ebmqiz
+Turn 88:
+1 bulls and 5 cows. The secret code is embizq
+> mbeqiz
+Turn 89:
+0 bulls and 6 cows. The secret code is embizq
+> bmeqiz
+Turn 90:
+1 bulls and 5 cows. The secret code is embizq
+> qmebiz
+Turn 91:
+1 bulls and 5 cows. The secret code is embizq
+> mqebiz
+Turn 92:
+0 bulls and 6 cows. The secret code is embizq
+> eqmbiz
+Turn 93:
+1 bulls and 5 cows. The secret code is embizq
+> qembiz
+Turn 94:
+0 bulls and 6 cows. The secret code is embizq
+> meqbiz
+Turn 95:
+0 bulls and 6 cows. The secret code is embizq
+> emqbiz
+Turn 96:
+2 bulls and 4 cows. The secret code is embizq
+> ebqmiz
+Turn 97:
+1 bulls and 5 cows. The secret code is embizq
+> beqmiz
+Turn 98:
+0 bulls and 6 cows. The secret code is embizq
+> qebmiz
+Turn 99:
+1 bulls and 5 cows. The secret code is embizq
+> eqbmiz
+Turn 100:
+2 bulls and 4 cows. The secret code is embizq
+> bqemiz
+Turn 101:
+0 bulls and 6 cows. The secret code is embizq
+> qbemiz
+Turn 102:
+0 bulls and 6 cows. The secret code is embizq
+> qbmeiz
+Turn 103:
+0 bulls and 6 cows. The secret code is embizq
+> bqmeiz
+Turn 104:
+0 bulls and 6 cows. The secret code is embizq
+> mqbeiz
+Turn 105:
+1 bulls and 5 cows. The secret code is embizq
+> qmbeiz
+Turn 106:
+2 bulls and 4 cows. The secret code is embizq
+> bmqeiz
+Turn 107:
+1 bulls and 5 cows. The secret code is embizq
+> mbqeiz
+Turn 108:
+0 bulls and 6 cows. The secret code is embizq
+> ibqemz
+Turn 109:
+0 bulls and 6 cows. The secret code is embizq
+> biqemz
+Turn 110:
+0 bulls and 6 cows. The secret code is embizq
+> qibemz
+Turn 111:
+1 bulls and 5 cows. The secret code is embizq
+> iqbemz
+Turn 112:
+1 bulls and 5 cows. The secret code is embizq
+> bqiemz
+Turn 113:
+0 bulls and 6 cows. The secret code is embizq
+> qbiemz
+Turn 114:
+0 bulls and 6 cows. The secret code is embizq
+> ebiqmz
+Turn 115:
+1 bulls and 5 cows. The secret code is embizq
+> beiqmz
+Turn 116:
+0 bulls and 6 cows. The secret code is embizq
+> iebqmz
+Turn 117:
+1 bulls and 5 cows. The secret code is embizq
+> eibqmz
+Turn 118:
+2 bulls and 4 cows. The secret code is embizq
+> bieqmz
+Turn 119:
+0 bulls and 6 cows. The secret code is embizq
+> ibeqmz
+Turn 120:
+0 bulls and 6 cows. The secret code is embizq
+> iqebmz
+Turn 121:
+0 bulls and 6 cows. The secret code is embizq
+> qiebmz
+Turn 122:
+0 bulls and 6 cows. The secret code is embizq
+> eiqbmz
+Turn 123:
+1 bulls and 5 cows. The secret code is embizq
+> ieqbmz
+Turn 124:
+0 bulls and 6 cows. The secret code is embizq
+> qeibmz
+Turn 125:
+0 bulls and 6 cows. The secret code is embizq
+> eqibmz
+Turn 126:
+1 bulls and 5 cows. The secret code is embizq
+> eqbimz
+Turn 127:
+3 bulls and 3 cows. The secret code is embizq
+> qebimz
+Turn 128:
+2 bulls and 4 cows. The secret code is embizq
+> beqimz
+Turn 129:
+1 bulls and 5 cows. The secret code is embizq
+> ebqimz
+Turn 130:
+2 bulls and 4 cows. The secret code is embizq
+> qbeimz
+Turn 131:
+1 bulls and 5 cows. The secret code is embizq
+> bqeimz
+Turn 132:
+1 bulls and 5 cows. The secret code is embizq
+> mqeibz
+Turn 133:
+1 bulls and 5 cows. The secret code is embizq
+> qmeibz
+Turn 134:
+2 bulls and 4 cows. The secret code is embizq
+> emqibz
+Turn 135:
+3 bulls and 3 cows. The secret code is embizq
+> meqibz
+Turn 136:
+1 bulls and 5 cows. The secret code is embizq
+> qemibz
+Turn 137:
+1 bulls and 5 cows. The secret code is embizq
+> eqmibz
+Turn 138:
+2 bulls and 4 cows. The secret code is embizq
+> iqmebz
+Turn 139:
+0 bulls and 6 cows. The secret code is embizq
+> qimebz
+Turn 140:
+0 bulls and 6 cows. The secret code is embizq
+> miqebz
+Turn 141:
+0 bulls and 6 cows. The secret code is embizq
+> imqebz
+Turn 142:
+1 bulls and 5 cows. The secret code is embizq
+> qmiebz
+Turn 143:
+1 bulls and 5 cows. The secret code is embizq
+> mqiebz
+Turn 144:
+0 bulls and 6 cows. The secret code is embizq
+> meiqbz
+Turn 145:
+0 bulls and 6 cows. The secret code is embizq
+> emiqbz
+Turn 146:
+2 bulls and 4 cows. The secret code is embizq
+> imeqbz
+Turn 147:
+1 bulls and 5 cows. The secret code is embizq
+> mieqbz
+Turn 148:
+0 bulls and 6 cows. The secret code is embizq
+> eimqbz
+Turn 149:
+1 bulls and 5 cows. The secret code is embizq
+> iemqbz
+Turn 150:
+0 bulls and 6 cows. The secret code is embizq
+> ieqmbz
+Turn 151:
+0 bulls and 6 cows. The secret code is embizq
+> eiqmbz
+Turn 152:
+1 bulls and 5 cows. The secret code is embizq
+> qiembz
+Turn 153:
+0 bulls and 6 cows. The secret code is embizq
+> iqembz
+Turn 154:
+0 bulls and 6 cows. The secret code is embizq
+> eqimbz
+Turn 155:
+1 bulls and 5 cows. The secret code is embizq
+> qeimbz
+Turn 156:
+0 bulls and 6 cows. The secret code is embizq
+> zeimbq
+Turn 157:
+1 bulls and 5 cows. The secret code is embizq
+> ezimbq
+Turn 158:
+2 bulls and 4 cows. The secret code is embizq
+> izembq
+Turn 159:
+1 bulls and 5 cows. The secret code is embizq
+> ziembq
+Turn 160:
+1 bulls and 5 cows. The secret code is embizq
+> eizmbq
+Turn 161:
+2 bulls and 4 cows. The secret code is embizq
+> iezmbq
+Turn 162:
+1 bulls and 5 cows. The secret code is embizq
+> mezibq
+Turn 163:
+2 bulls and 4 cows. The secret code is embizq
+> emzibq
+Turn 164:
+4 bulls and 2 cows. The secret code is embizq
+> zmeibq
+Turn 165:
+3 bulls and 3 cows. The secret code is embizq
+> mzeibq
+Turn 166:
+2 bulls and 4 cows. The secret code is embizq
+> ezmibq
+Turn 167:
+3 bulls and 3 cows. The secret code is embizq
+> zemibq
+Turn 168:
+2 bulls and 4 cows. The secret code is embizq
+> zimebq
+Turn 169:
+1 bulls and 5 cows. The secret code is embizq
+> izmebq
+Turn 170:
+1 bulls and 5 cows. The secret code is embizq
+> mziebq
+Turn 171:
+1 bulls and 5 cows. The secret code is embizq
+> zmiebq
+Turn 172:
+2 bulls and 4 cows. The secret code is embizq
+> imzebq
+Turn 173:
+2 bulls and 4 cows. The secret code is embizq
+> mizebq
+Turn 174:
+1 bulls and 5 cows. The secret code is embizq
+> miezbq
+Turn 175:
+1 bulls and 5 cows. The secret code is embizq
+> imezbq
+Turn 176:
+2 bulls and 4 cows. The secret code is embizq
+> emizbq
+Turn 177:
+3 bulls and 3 cows. The secret code is embizq
+> meizbq
+Turn 178:
+1 bulls and 5 cows. The secret code is embizq
+> iemzbq
+Turn 179:
+1 bulls and 5 cows. The secret code is embizq
+> eimzbq
+Turn 180:
+2 bulls and 4 cows. The secret code is embizq
+> bimzeq
+Turn 181:
+1 bulls and 5 cows. The secret code is embizq
+> ibmzeq
+Turn 182:
+1 bulls and 5 cows. The secret code is embizq
+> mbizeq
+Turn 183:
+1 bulls and 5 cows. The secret code is embizq
+> bmizeq
+Turn 184:
+2 bulls and 4 cows. The secret code is embizq
+> imbzeq
+Turn 185:
+3 bulls and 3 cows. The secret code is embizq
+> mibzeq
+Turn 186:
+2 bulls and 4 cows. The secret code is embizq
+> zibmeq
+Turn 187:
+2 bulls and 4 cows. The secret code is embizq
+> izbmeq
+Turn 188:
+2 bulls and 4 cows. The secret code is embizq
+> bzimeq
+Turn 189:
+1 bulls and 5 cows. The secret code is embizq
+> zbimeq
+Turn 190:
+1 bulls and 5 cows. The secret code is embizq
+> ibzmeq
+Turn 191:
+1 bulls and 5 cows. The secret code is embizq
+> bizmeq
+Turn 192:
+1 bulls and 5 cows. The secret code is embizq
+> bmzieq
+Turn 193:
+3 bulls and 3 cows. The secret code is embizq
+> mbzieq
+Turn 194:
+2 bulls and 4 cows. The secret code is embizq
+> zbmieq
+Turn 195:
+2 bulls and 4 cows. The secret code is embizq
+> bzmieq
+Turn 196:
+2 bulls and 4 cows. The secret code is embizq
+> mzbieq
+Turn 197:
+3 bulls and 3 cows. The secret code is embizq
+> zmbieq
+Turn 198:
+4 bulls and 2 cows. The secret code is embizq
+> zmibeq
+Turn 199:
+2 bulls and 4 cows. The secret code is embizq
+> mzibeq
+Turn 200:
+1 bulls and 5 cows. The secret code is embizq
+> izmbeq
+Turn 201:
+1 bulls and 5 cows. The secret code is embizq
+> zimbeq
+Turn 202:
+1 bulls and 5 cows. The secret code is embizq
+> mizbeq
+Turn 203:
+1 bulls and 5 cows. The secret code is embizq
+> imzbeq
+Turn 204:
+2 bulls and 4 cows. The secret code is embizq
+> emzbiq
+Turn 205:
+3 bulls and 3 cows. The secret code is embizq
+> mezbiq
+Turn 206:
+1 bulls and 5 cows. The secret code is embizq
+> zembiq
+Turn 207:
+1 bulls and 5 cows. The secret code is embizq
+> ezmbiq
+Turn 208:
+2 bulls and 4 cows. The secret code is embizq
+> mzebiq
+Turn 209:
+1 bulls and 5 cows. The secret code is embizq
+> zmebiq
+Turn 210:
+2 bulls and 4 cows. The secret code is embizq
+> bmeziq
+Turn 211:
+2 bulls and 4 cows. The secret code is embizq
+> mbeziq
+Turn 212:
+1 bulls and 5 cows. The secret code is embizq
+> ebmziq
+Turn 213:
+2 bulls and 4 cows. The secret code is embizq
+> bemziq
+Turn 214:
+1 bulls and 5 cows. The secret code is embizq
+> mebziq
+Turn 215:
+2 bulls and 4 cows. The secret code is embizq
+> embziq
+Turn 216:
+4 bulls and 2 cows. The secret code is embizq
+> ezbmiq
+Turn 217:
+3 bulls and 3 cows. The secret code is embizq
+> zebmiq
+Turn 218:
+2 bulls and 4 cows. The secret code is embizq
+> bezmiq
+Turn 219:
+1 bulls and 5 cows. The secret code is embizq
+> ebzmiq
+Turn 220:
+2 bulls and 4 cows. The secret code is embizq
+> zbemiq
+Turn 221:
+1 bulls and 5 cows. The secret code is embizq
+> bzemiq
+Turn 222:
+1 bulls and 5 cows. The secret code is embizq
+> bzmeiq
+Turn 223:
+1 bulls and 5 cows. The secret code is embizq
+> zbmeiq
+Turn 224:
+1 bulls and 5 cows. The secret code is embizq
+> mbzeiq
+Turn 225:
+1 bulls and 5 cows. The secret code is embizq
+> bmzeiq
+Turn 226:
+2 bulls and 4 cows. The secret code is embizq
+> zmbeiq
+Turn 227:
+3 bulls and 3 cows. The secret code is embizq
+> mzbeiq
+Turn 228:
+2 bulls and 4 cows. The secret code is embizq
+> izbemq
+Turn 229:
+2 bulls and 4 cows. The secret code is embizq
+> zibemq
+Turn 230:
+2 bulls and 4 cows. The secret code is embizq
+> bizemq
+Turn 231:
+1 bulls and 5 cows. The secret code is embizq
+> ibzemq
+Turn 232:
+1 bulls and 5 cows. The secret code is embizq
+> zbiemq
+Turn 233:
+1 bulls and 5 cows. The secret code is embizq
+> bziemq
+Turn 234:
+1 bulls and 5 cows. The secret code is embizq
+> ezibmq
+Turn 235:
+2 bulls and 4 cows. The secret code is embizq
+> zeibmq
+Turn 236:
+1 bulls and 5 cows. The secret code is embizq
+> iezbmq
+Turn 237:
+1 bulls and 5 cows. The secret code is embizq
+> eizbmq
+Turn 238:
+2 bulls and 4 cows. The secret code is embizq
+> ziebmq
+Turn 239:
+1 bulls and 5 cows. The secret code is embizq
+> izebmq
+Turn 240:
+1 bulls and 5 cows. The secret code is embizq
+> ibezmq
+Turn 241:
+1 bulls and 5 cows. The secret code is embizq
+> biezmq
+Turn 242:
+1 bulls and 5 cows. The secret code is embizq
+> eibzmq
+Turn 243:
+3 bulls and 3 cows. The secret code is embizq
+> iebzmq
+Turn 244:
+2 bulls and 4 cows. The secret code is embizq
+> beizmq
+Turn 245:
+1 bulls and 5 cows. The secret code is embizq
+> ebizmq
+Turn 246:
+2 bulls and 4 cows. The secret code is embizq
+> ebzimq
+Turn 247:
+3 bulls and 3 cows. The secret code is embizq
+> bezimq
+Turn 248:
+2 bulls and 4 cows. The secret code is embizq
+> zebimq
+Turn 249:
+3 bulls and 3 cows. The secret code is embizq
+> ezbimq
+Turn 250:
+4 bulls and 2 cows. The secret code is embizq
+> bzeimq
+Turn 251:
+2 bulls and 4 cows. The secret code is embizq
+> zbeimq
+Turn 252:
+2 bulls and 4 cows. The secret code is embizq
+> mbeizq
+Turn 253:
+3 bulls and 3 cows. The secret code is embizq
+> bmeizq
+Turn 254:
+4 bulls and 2 cows. The secret code is embizq
+> embizq
+Turn 255:
+6 bulls and 0 cows. The secret code is embizq
+Congrats! The secret code is embizq.
+?[1;31m
+Start test 7?[0m
+Input the length of the secret code:
+> 0
+Error : a code can't have a length of 0
+?[1;31m
+Start test 8?[0m
+Input the length of the secret code:
+> 10
+Input the number of possible symbols in the code:
+> 9
+Error: it's not possible to generate a code with a length greater than the number of symbols.
+?[1;31m
+Start test 9?[0m
+Input the length of the secret code:
+> 9
+Input the number of possible symbols in the code:
+> 37
+Error: it's not possible to generate a code with a length greater than the number of symbols.
+?[1;31m
+Start test 10?[0m
+Input the length of the secret code:
+> abcdefg 1 -6
+Error: null isn't a valid number.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
